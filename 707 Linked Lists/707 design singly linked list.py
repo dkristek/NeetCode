@@ -1,3 +1,6 @@
+#problem asks to desing either a singly or doubly linked list
+#this is my solution for a singly linked list
+#problem: https://leetcode.com/problems/design-linked-list/
 class Node:
     #node to use in lists. Val stores the value
     #next points to the next node in the list
